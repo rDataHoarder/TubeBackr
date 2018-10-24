@@ -1,0 +1,19 @@
+{
+  "name": "tubebackr",
+  "version": "0.1",
+  "description": "The tubebackr background service",
+  "main": "src/tubebackr.js",
+  "repository": "https://github.com/rDataHoarder/TubeBackr",
+  "author": "dunklesToast",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "colors": "^1.3.2",
+    "fastify": "^1.12.1",
+    "fastify-cors": "^0.2.0",
+    "fs-extra": "^7.0.0",
+    "hh-mm-ss": "^1.2.0",
+    "request": "^2.88.0",
+    "streamify": "^1.0.0"
+  }
+}

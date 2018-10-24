@@ -1,0 +1,8 @@
+{
+  "location": "./videos",
+  "quality": "bestvideo+bestaudio",
+  "additionalParams": "-k",
+  "saveAllInfo": true,
+  "saveOutput": true,
+  "saveInSubfolders": true
+}
