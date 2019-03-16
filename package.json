@@ -1,6 +1,6 @@
 {
   "name": "tubebackr",
-  "version": "0.1",
+  "version": "0.2",
   "description": "The tubebackr background service",
   "main": "src/tubebackr.js",
   "repository": "https://github.com/rDataHoarder/TubeBackr",
