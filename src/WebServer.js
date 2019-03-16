@@ -26,7 +26,7 @@ fastify.get('/v', async (request, reply) => {
 });
 
 try {
-    fastify.listen('0.0.0.0', 9999);
+    fastify.listen(9999, '0.0.0.0');
     console.log('WebServer started!'.green);
 } catch (e) {
     console.log('Unable to start Fastify WebServer'.red);
